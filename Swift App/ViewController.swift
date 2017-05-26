@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Marc Streeter on 5/24/17.
-//  Copyright © 2017 Zappy Code. All rights reserved.
+//  Copyright © 2017 Zappy Code. All rights reserved..
 //
 
 import UIKit
@@ -18,8 +18,8 @@ class ViewController: UIViewController {
         
           tapCount = tapCount + 1
         
-        if tapCount >= 10 {
-            theLabel.text = "You Tapped The Button Ten 10 Times!!"
+        if tapCount >= 20 {
+            theLabel.text = "You Tapped The Button Ten 20 Times already!!"
         }
             }
     override func viewDidLoad() {
